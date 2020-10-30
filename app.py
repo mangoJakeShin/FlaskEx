@@ -1,9 +1,6 @@
-from flask import Flask
 import os
-import sqlite3
+from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
-
-
 
 
 #current file direcory

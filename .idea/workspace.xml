@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -23,10 +24,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/flaskexex" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app2">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FlaskEx" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -40,6 +49,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlaskEx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,6 +122,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app2" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.sqlEx" />
         <item itemvalue="Python.sqlite3" />
@@ -118,25 +149,33 @@
       <screen x="72" y="27" width="1848" height="957" />
     </state>
     <state x="729" y="254" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.957@72.27.1848.957" timestamp="1604033436698" />
-    <state width="1825" height="126" key="GridCell.Tab.0.bottom" timestamp="1604038467234">
+    <state width="897" height="288" key="GridCell.Tab.0.bottom" timestamp="1604043439214">
       <screen x="72" y="27" width="1848" height="957" />
     </state>
-    <state width="1825" height="126" key="GridCell.Tab.0.bottom/72.27.1848.957@72.27.1848.957" timestamp="1604038467234" />
-    <state width="1825" height="126" key="GridCell.Tab.0.center" timestamp="1604038467232">
+    <state width="1051" height="99" key="GridCell.Tab.0.bottom/72.27.1074.813@72.27.1074.813" timestamp="1604039315698" />
+    <state width="897" height="288" key="GridCell.Tab.0.bottom/72.27.1848.957@72.27.1848.957" timestamp="1604043439214" />
+    <state width="897" height="288" key="GridCell.Tab.0.center" timestamp="1604043439213">
       <screen x="72" y="27" width="1848" height="957" />
     </state>
-    <state width="1825" height="126" key="GridCell.Tab.0.center/72.27.1848.957@72.27.1848.957" timestamp="1604038467232" />
-    <state width="1825" height="126" key="GridCell.Tab.0.left" timestamp="1604038467231">
+    <state width="1051" height="99" key="GridCell.Tab.0.center/72.27.1074.813@72.27.1074.813" timestamp="1604039315695" />
+    <state width="897" height="288" key="GridCell.Tab.0.center/72.27.1848.957@72.27.1848.957" timestamp="1604043439213" />
+    <state width="897" height="288" key="GridCell.Tab.0.left" timestamp="1604043439212">
       <screen x="72" y="27" width="1848" height="957" />
     </state>
-    <state width="1825" height="126" key="GridCell.Tab.0.left/72.27.1848.957@72.27.1848.957" timestamp="1604038467231" />
-    <state width="1825" height="126" key="GridCell.Tab.0.right" timestamp="1604038467233">
+    <state width="1051" height="99" key="GridCell.Tab.0.left/72.27.1074.813@72.27.1074.813" timestamp="1604039315694" />
+    <state width="897" height="288" key="GridCell.Tab.0.left/72.27.1848.957@72.27.1848.957" timestamp="1604043439212" />
+    <state width="897" height="288" key="GridCell.Tab.0.right" timestamp="1604043439213">
       <screen x="72" y="27" width="1848" height="957" />
     </state>
-    <state width="1825" height="126" key="GridCell.Tab.0.right/72.27.1848.957@72.27.1848.957" timestamp="1604038467233" />
+    <state width="1051" height="99" key="GridCell.Tab.0.right/72.27.1074.813@72.27.1074.813" timestamp="1604039315697" />
+    <state width="897" height="288" key="GridCell.Tab.0.right/72.27.1848.957@72.27.1848.957" timestamp="1604043439213" />
     <state x="485" y="140" width="1022" height="737" key="SettingsEditor" timestamp="1604025317647">
       <screen x="72" y="27" width="1848" height="957" />
     </state>
     <state x="485" y="140" width="1022" height="737" key="SettingsEditor/72.27.1848.957@72.27.1848.957" timestamp="1604025317647" />
+    <state x="1121" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1604043422986">
+      <screen x="72" y="27" width="1848" height="957" />
+    </state>
+    <state x="1121" y="235" width="672" height="678" key="search.everywhere.popup/72.27.1848.957@72.27.1848.957" timestamp="1604043422986" />
   </component>
 </project>
